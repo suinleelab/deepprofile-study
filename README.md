@@ -2,7 +2,7 @@
 
 Repository with scripts for all model training and analysis for paper "A deep profile of gene expression across 18 human cancers"
 
-All fully pre-processed input data for training the models can be found on our Mendeley Data repository. For each cancer, the basic data we used is **'CANCER_DATA_TOP2_JOINED_BATCH_CORRECTED_CLEANED.tsv'** where CANCER is the name of the cancer type. This data is GEO datasets collected from top 2 platforms, intersecting genes taken, and batch correction applied.
+All fully pre-processed input data for training the models can be found on our Figshare Data repository. For each cancer, the basic data we used is **'CANCER_DATA_TOP2_JOINED_BATCH_CORRECTED_CLEANED.tsv'** where CANCER is the name of the cancer type. This data is GEO datasets collected from top 2 platforms, intersecting genes taken, and batch correction applied.
 
 The folder **MODEL_TRAININGS** includes all scripts and notebooks for training VAE models and obtaining attributions.
 
@@ -10,6 +10,7 @@ The script **Example_Run_All.py** includes all commands for training DeepProfile
 
 <font color=blue>**STEP 1: Creating PCs for each data**</font>
 
+Create a folder **./ALL_CANCER_FILES/CANCER/** then download the data and save in that folder.
 **Create_PCs_for_DeepLearning_Models.py** takes a cancer type and component_count as input and applies PCA on the training data to train deep learning models.
 
 <font color=blue>**STEP 2: Training VAE models**</font>
