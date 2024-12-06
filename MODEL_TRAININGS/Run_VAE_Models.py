@@ -1,5 +1,4 @@
 ###############################
-#Author: Ayse Dincer
 #Script for training VAE models
 ###############################
 import sys

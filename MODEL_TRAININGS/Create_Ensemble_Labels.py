@@ -1,5 +1,4 @@
 ###############################
-#Author: Ayse Dincer
 #This script is for learning ensemble labels for VAE models
 ###############################
 

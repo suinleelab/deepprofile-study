@@ -1,5 +1,4 @@
 ###############################
-#Author: Ayse Dincer
 #This script is for PCA transforming the input data to pass to deep learning models
 ###############################
 

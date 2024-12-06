@@ -1,5 +1,4 @@
 ###############################
-#Author: Ayse Dincer
 #Example for training model for a cancer type
 ###############################
 import sys

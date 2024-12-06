@@ -1,5 +1,4 @@
 ###############################
-#Author: Ayse Dincer
 #Script for recording top PCs or TCGA RNA-Seq data
 ###############################
 

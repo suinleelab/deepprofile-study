@@ -1,5 +1,4 @@
 ###############################
-#Author: Ayse Dincer
 #Example for training competitor models for a cancer type
 ###############################
 

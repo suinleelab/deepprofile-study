@@ -1,5 +1,4 @@
 ###############################
-#Author: Ayse Dincer
 #Script for running fisher's test for pathway enrichment analysis
 ###############################
 

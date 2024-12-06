@@ -1,5 +1,4 @@
 ###############################
-#Author: Ayse Dincer
 #Script for preprocessing TCGA RNA-Seq expression
 ###############################
 

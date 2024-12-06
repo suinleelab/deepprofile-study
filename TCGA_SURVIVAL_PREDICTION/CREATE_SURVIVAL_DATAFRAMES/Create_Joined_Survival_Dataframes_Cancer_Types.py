@@ -1,5 +1,4 @@
 ###############################
-#Author: Ayse Dincer
 #Script for creating joined cancer types TCGA survival dataframes 
 ###############################
 

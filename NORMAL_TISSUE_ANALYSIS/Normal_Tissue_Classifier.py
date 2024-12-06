@@ -1,5 +1,4 @@
 ###############################
-#Author: Ayse Dincer
 #Script for training classifiers for separating healthy and cancer tissue embeddings
 ###############################
 

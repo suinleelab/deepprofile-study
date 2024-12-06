@@ -1,5 +1,4 @@
 ###############################
-#Author: Ayse Dincer
 #Script for creating pathway matrices for cancer type
 ###############################
 

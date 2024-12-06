@@ -1,5 +1,4 @@
 ###############################
-#Author: Ayse Dincer
 #Script for creating expression matrices for GTEX healthy samples
 ###############################
 

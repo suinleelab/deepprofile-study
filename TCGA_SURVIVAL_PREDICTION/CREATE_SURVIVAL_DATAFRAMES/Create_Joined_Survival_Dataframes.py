@@ -1,5 +1,4 @@
 ###############################
-#Author: Ayse Dincer
 #Script for creating joined TCGA survival dataframes and DeepProfile embeddings
 ###############################
 

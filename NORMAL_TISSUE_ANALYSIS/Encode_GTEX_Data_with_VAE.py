@@ -1,5 +1,4 @@
 ###############################
-#Author: Ayse Dincer
 #Script for encoding GTEX expression using VAE models
 ###############################
 

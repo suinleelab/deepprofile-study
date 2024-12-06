@@ -1,5 +1,4 @@
 ###############################
-#Author: Ayse Dincer
 #Script for training ICA models
 ###############################
 

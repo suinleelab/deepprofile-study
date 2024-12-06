@@ -1,5 +1,4 @@
 ###############################
-#Author: Ayse Dincer
 #Script for encoding TCGA RNA-Seq expression using VAE models
 ###############################
 

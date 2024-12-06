@@ -1,5 +1,4 @@
 ###############################
-#Author: Ayse Dincer
 #This script is for creating gene attribution matrices for DeepProfile
 ###############################
 

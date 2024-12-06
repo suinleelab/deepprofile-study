@@ -1,5 +1,4 @@
 ###############################
-#Author: Ayse Dincer
 #AE model
 
 #Code is modified from https://github.com/keras-team/keras/blob/master/examples/variational_autoencoder.py

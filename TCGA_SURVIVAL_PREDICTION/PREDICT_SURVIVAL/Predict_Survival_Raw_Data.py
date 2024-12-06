@@ -1,5 +1,4 @@
 ###############################
-#Author: Joseph Janizek
 #Predicting survival status of patients using raw gene data
 ###############################
 

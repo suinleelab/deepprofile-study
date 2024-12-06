@@ -1,5 +1,4 @@
 ###############################
-#Author: Ayse Dincer
 #Script for creating GTEX DeepProfile embeddings
 ###############################
 

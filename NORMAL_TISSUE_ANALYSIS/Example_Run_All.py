@@ -1,5 +1,4 @@
 ###############################
-#Author: Ayse Dincer
 #Example for generating healthy tissue embeddings for a cancer type
 ###############################
 

@@ -1,5 +1,4 @@
 ###############################
-#Author: Ayse Dincer
 #Script for creating PCs for expression matrices
 ###############################
 

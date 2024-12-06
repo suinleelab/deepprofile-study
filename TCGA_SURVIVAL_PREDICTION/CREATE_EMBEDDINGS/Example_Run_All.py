@@ -1,5 +1,4 @@
 ###############################
-#Author: Ayse Dincer
 #Example for training TCGA models for a cancer type
 ###############################
 import sys

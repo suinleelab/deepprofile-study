@@ -1,5 +1,4 @@
 ###############################
-#Author: Ayse Dincer
 #Script for running integrated gradients to get gene-level attributions of each node
 ###############################
 

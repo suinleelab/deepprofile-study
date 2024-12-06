@@ -1,6 +1,4 @@
 ###############################
-#Author: Ayse Dincer
-#Date: May 7 2019
 #Script for training AE models
 ###############################
 import sys

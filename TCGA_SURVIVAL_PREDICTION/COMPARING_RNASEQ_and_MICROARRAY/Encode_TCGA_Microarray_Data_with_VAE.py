@@ -1,5 +1,4 @@
 ###############################
-#Author: Ayse Dincer
 #Script for encoding TCGA microarray expression using VAE models
 ###############################
 
